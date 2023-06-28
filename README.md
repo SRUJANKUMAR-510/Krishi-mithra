@@ -7,7 +7,7 @@ A Ecommerce Website made with React.js Framework.
 To clone project Run:
 
 ```bash
-    git clone https://github.com/vinayakumaru/krishi-mithra.git
+    git clone https://github.com/SRUJANKUMAR-510/krishi-mithra.git
 ```
 
 ## Setup client
