@@ -4,7 +4,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Getting Started with the project
 
-To clone project Run:
+To clone project Run:-
 
 ```bash
     git clone https://github.com/SRUJANKUMAR-510/krishi-mithra.git
